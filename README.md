@@ -42,7 +42,12 @@ Circuit Connection
 4. Upload the code to Arduino.
 5. Open the **Serial Monitor** (9600 baud) to view the output.
 
-##Output:-
+##Hardware setup
+## 🔧 Hardware Setup
+Below is the actual hardware connection for the Smart Water Monitor System:
+
+![Hardware Setup](connection.png)
+
 
 
 ##  Future Improvements
