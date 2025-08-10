@@ -1,0 +1,37 @@
+
+attempt1-
+Sep 10 2023;ON ;00:00:03
+Sep 10 2023;OFF ;00:00:52on dration: 00:00:03amount of water (L): 12.618amt in ml: 1261800\
+
+
+attempt-2
+
+Sep 10 2023;ON ;00:00:07
+Sep 10 2023;OFF ;00:00:54on dration: 00:00:07amount of water (L): 0.793
+Total Milliliters: 793
+
+Sep 10 2023;ON ;00:01:04
+Sep 10 2023;OFF ;00:01:06on dration: 00:01:04amount of water (L): 0.028
+Total Milliliters: 821
+
+Sep 10 2023;ON ;00:01:16
+Sep 10 2023;OFF ;00:01:17on dration: 00:01:16amount of water (L): 0.028
+Total Milliliters: 849
+
+attempt-3
+
+Sep 10 2023;ON ;00:00:03
+Sep 10 2023;OFF ;00:01:05on dration: 00:01:02amount of water (L): 1.036
+Total Milliliters: 1035
+
+
+
+Sep 12 2023;ON ;00:00:01
+Sep 12 2023;OFF ;00:01:03  ;  on duration: 00:01:02.000  ;  amount of water (L): 1.500
+Sep 12 2023;ON ;00:02:05
+Sep 12 2023;OFF ;00:03:07  ;  on duration: 00:01:02.000  ;  amount of water (L): 1.500
+...
+Sep 12 2023;ON ;23:57:45
+Sep 12 2023;OFF ;23:58:47  ;  on duration: 00:01:02.000  ;  amount of water (L): 1.500
+Sep 13 2023;ON ;00:00:00
+Daily Total (24 Hours): 36.000 L
